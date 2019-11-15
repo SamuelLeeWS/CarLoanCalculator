@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">16dp</dimen>
+    <dimen name="top_margin">32dp</dimen>
+    <dimen name="left_margin">32dp</dimen>
+    <dimen name="large_margin">64dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="large_right_margin">160dp</dimen>
+    <dimen name="right_margin">16dp</dimen>
+    <dimen name="cal_btn_margin">512dp</dimen>
+</resources>
